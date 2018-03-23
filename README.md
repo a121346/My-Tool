@@ -28,7 +28,7 @@
 1. [MAKA](http://www.maka.im/home/index.html)：H5模版丰富，上手容易。
 2. [易企秀](http://www.eqxiu.com/)：同Maka差不多，但是设计感稍微差一些。
 3. [ih5](https://www.ih5.cn)：目前中国最强大的H5制作工具，上手具有一定难度。
-4. [Strikingly](https://www.strikingly.com/?locale=zh-CN)：硅谷的中国团队出品，目前中国最容易上手制作着陆页的工具。
+4. [Strikingly](https://www.strikingly.com/?locale=zh-CN)：硅谷的中国团队出品，目前中国最容易上手制作H5的工具。
 
 
 ### 图片设计
