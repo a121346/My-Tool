@@ -12,7 +12,7 @@
 
 1. [百度指数](http://link.zhihu.com/?target=http%3A//top.baidu.com/)：很好用的内容选题工具。
 2. [5118](http://www.5118.com/)：中国目前最好用的网站数据工具。
-3. [新榜](http://newrank.cn/)：专注公众号数据。
+3. [TBI](http://tbi.tencent.com/)：腾讯浏览指数数据。
 4. [清博指数](http://www.gsdata.cn/)：专注公众号数据。
 5. [艾瑞指数](http://index.iresearch.com.cn/)：可以查看APP、网站对应的数据情况，方便做渠道投放的评估和竞品研究。
 
