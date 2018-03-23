@@ -38,7 +38,6 @@
 3. [瓦斯](http://canvas.qq.com/index)：腾讯模仿Canvas做的产品，更适合制作信息图。
 4. [Canvas](https://canvas.cityu.edu.hk/login/ldap)：国外产品，创客贴的原身。
 5. [Powerpoint](https://office.live.com/start/PowerPoint.aspx)：我最喜欢的快速设计工具。
-6. [Sketch](https://www.sketchapp.com/)：仅限Mac，正在逐步替代PS成为主流的UI设计工具。
 
 ### 图文排版
 
@@ -128,6 +127,7 @@
 ### 图床工具
 
 1. [极简图床](http://jiantuku.com/#/)：直接拖拽生成图片外链。
+2. [SM.MS](https://sm.ms/)：简单方便的图床。
 
 ## 二、素材篇
 
@@ -163,4 +163,5 @@
 3. [Song Freedom](http://www.songfreedom.com/home/library)：纯粹的配乐素材库。
 4. [Free Music Archive](http://freemusicarchive.org/)：纯粹的配乐素材库。
 5. [Audiosocket](https://www.audiosocket.com/)：纯粹的配乐素材库。
-部分内容源自@banpie
+
+###部分内容源自@banpie
